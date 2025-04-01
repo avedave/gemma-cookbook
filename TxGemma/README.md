@@ -6,7 +6,7 @@ This folder is organized into several categories, each focusing on a specific as
 * [Finetuning](#finetuning): How to fine-tune TxGemma models for specific tasks and domains
 * [Agentic](#agentic): How to integrate TxGemma models into agentic workflows
 
-For more information on TxGemma, please visit the [HAI-DEF developer site](https://developers.devsite.corp.google.com/health-ai-developer-foundations/txgemma).
+For more information on TxGemma, please visit the [HAI-DEF developer site](https://developers.google.com/health-ai-developer-foundations/txgemma).
 
 ## Inference and serving
 
